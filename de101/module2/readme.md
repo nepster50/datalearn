@@ -10,3 +10,4 @@
 - [запросы](https://github.com/nepster50/datalearn/blob/main/de101/module2/query.sql)
 ## 2.4: Модели Данных
 - [DDL](https://github.com/nepster50/datalearn/blob/main/de101/module2/practic.sql)
+- [insert](https://github.com/nepster50/datalearn/blob/main/de101/module2/insert.sql)
