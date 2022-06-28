@@ -9,4 +9,4 @@
 ## SQL запросы к БД на примере задания из Module01
 - [запросы](https://github.com/nepster50/datalearn/blob/main/de101/module2/query.sql)
 ## 2.4: Модели Данных
-- (DDL)[https://github.com/nepster50/datalearn/blob/main/de101/module2/practic.sql]
+- [DDL](https://github.com/nepster50/datalearn/blob/main/de101/module2/practic.sql)
